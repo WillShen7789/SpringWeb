@@ -1,2 +1,2 @@
 # SpringWeb
-Quickstart
+Spring Quickstart Guide
